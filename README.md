@@ -1,38 +1,26 @@
-## ABOUT ME
-   ________
+## GENERAL SHORT INFORMATION ABOUT ME
+   __________________________________
 
-My name is Aliaksei Zaretski. I am 37 years old. I live in Minsk. Currently I am an employee of EPAM Systems company and have the job function "IT Infrastracture Support Engineer" level L1 (with experience of about 1,5 yers on this position).
+My name is Aliaksei Zaretski. I am 37 years old. I live in Minsk. Currently I am an employee of EPAM Systems company and I have the job function "IT Infrastracture Support Engineer" level L1 (with experience in this position for about 1,5 yers). I have advanced knowledge in the field of IT infrastructure of the enterprise (hardware, software, network, etc.), but unfortunately I haven't of experience in programming and I want to try my hand at it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## EDUCATION
+   _________
+   
+* **Belarusian State University of Informatics and Radioelectronics** 
+    Faculty: Faculty of computer-aided design 
+    Department: Electronic Computing Means 
+    Speciality: Designing and technology of electronic computing means
+    Graduation year: 2005
+    
+* **Minsk State Higher Radioengineering College**
+    Department: Department of Electronics
+    Speciality: Electronic computing means
+    Graduation year: 2002
 
 ## INTERESTS
    _________
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   
+Skiing. Snowboarding. Sports Poker. Billiards. Table tennis.Learning English language.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AliakseiZaretski/AliakseiZaretski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## CONTACT
+   _______
