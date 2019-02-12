@@ -7,10 +7,10 @@ My name is Aliaksei Zaretski. I am 37 years old. I live in Minsk. Currently I am
    _________
    
 * **Belarusian State University of Informatics and Radioelectronics.** 
-    Faculty: Faculty of computer-aided design 
-    Department: Electronic Computing Means 
-    Speciality: Designing and technology of electronic computing means
-    Graduation year: 2005
+    - Faculty: Faculty of computer-aided design 
+    - Department: Electronic Computing Means 
+    - Speciality: Designing and technology of electronic computing means
+    - Graduation year: 2005
     
 * **Minsk State Higher Radioengineering College.**
     Department: Department of Electronics
