@@ -1,11 +1,12 @@
-## Welcome to GitHub Pages
+## ABOUT ME
+   ________
 
-You can use the [editor on GitHub](https://github.com/AliakseiZaretski/AliakseiZaretski.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Aliaksei Zaretski. I am 37 years old. I live in Minsk. Currently I am an employee of EPAM Systems company and have the job function "IT Infrastracture Support Engineer" level L1 (with experience of about 1,5 yers on this position).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+## INTERESTS
+   _________
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
